@@ -44,7 +44,7 @@ histatlas_stat = ["v2_atlas_stat","v3_atlas_stat"];
 histatlas_syst = ["v2_atlas_syst","v3_atlas_syst"];
 
 histpPb_stat = ["v2_v0a_stat_pt","v3_v0a_stat_pt"];
-histpPb_syst = ["v2_v0a_syst_pt","v3_v0a_syst_pt"];
+histpPb_syst = ["v2_v0a_syst_pt_sm","v3_v0a_syst_pt"];
 # add labels for each pad
 #plables = [ "Leading Particle $|\\eta|<0.9$","Jet, anti-$k_\mathrm{T}$ $R=0.4$ $|\\eta|<0.4$" ];
 plables = [ "$n = 2$", "$n = 3$" ];
